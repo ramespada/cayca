@@ -1,17 +1,18 @@
 # Calidad de Aire y Contaminación Atmosférica
 
-> En este repositorio se guardará material práctico para la asignatura tales como ejercitación, trabajos prácticos, bibliografía, y código.
-
-
-## Docentes:
-- Marcelo G. Bormiolli (Titular)
-- Ramiro A. Espada 
+> Este repositorio contiene material didáctico y práctico para la asignatura tales como presentaciones, ejercitación, trabajos prácticos, bibliografía, y código.
 
 ## Módulos del curso:
 1. La Atmósfera: estructura y composicón.
-2. Física de la atmósfera.
+2. Bases de meteorolgía y física de la atmósfera.
 3. Química de la atmósfera y contaminantes atmosféricos.
-4. Monitoreo y analítica.
+	- Unidades.
+	- Constituyentes traza.
+	- Cinética y fotoquímica.
+	- Principales reacciones.
+	- Aerosoles.
+### Aplicaciones
+4. Mediciones: (Monitoreo, analítica y sensores remotos).
 5. Inventarios de emisiones.
 6. Modelado.
 7. Normativa. 
@@ -19,10 +20,10 @@
 ## Bibliografía:
 
 ### General:
-1. “Introd. a la calidad de aire y la contaminación atmosférica”, Marcelo G. Bormioli. Cátedra de Física, FAUBA. 2015.
-2. “Introd. to atmospheric chemistry”, Daniel J. Jacob (Harvard University), Princeton University Press, 1999.
+1. “Introd. to atmospheric chemistry”, Daniel J. Jacob (Harvard University), Princeton University Press, 1999.
+2. “Air Pollution and Global Warming”, Mark Z. Jacobson, Cambridge University Press, 2012.
+<!-- 1. “Introd. a la calidad de aire y la contaminación atmosférica”, Marcelo G. Bormioli. Cátedra de Física, FAUBA. 2015. -->
 
 ### Optativa:
-- “Air Pollution and Global Warming”, Mark Z. Jacobson, Cambridge University Press, 2012.
 - “Atmospheric chemistry and physics: From air pollution to climate change”,  Seinfeld, J. H., Pandis, S.N., Wiley, 1998.
 - “Contaminación del Aire. Origen y Control”,  Wark K. y Warner, C., Limusa, 2004.
