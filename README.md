@@ -5,6 +5,10 @@
 ## Módulos del curso:
 1. La Atmósfera: estructura y composicón.
 2. Bases de meteorolgía y física de la atmósfera.
+	- Termodinámica.
+	- Radiación.
+	- Capa límite y superficial.
+	- Nubes y convección.
 3. Química de la atmósfera y contaminantes atmosféricos.
 	- Unidades.
 	- Constituyentes traza.
