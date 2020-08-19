@@ -17,6 +17,7 @@
 ### Modulo 2: Unidades y física
 
 <!-- Jacob Daniel -->
+<!-- Exercises -->
 1. Calcular la concentración molar de aire y CO2 en condiciones estándar (p=1013 hPa, T = 0º C).
 
 2. En el los oceanos del trópico podemos llegar a encontrar fraciones molares de vapor de agua de 0.03 mol/mol. ¿Cuál sería el peso molecular de este aire húmedo?
@@ -27,6 +28,69 @@ in the mass of atmospheric carbon? Assume CO 2 to be well mixed in the
 atmosphere.
 
 4. Cual es el porcentaje de masa atmosferica que hay en la tropósfera? Y en la estratósfera? Use estos valores de presión: p_snm=1013hPa;  p_{tropopausa} =100hPa; p_{stratopausa}=0.9hPa
+
+<!-- Problems -->
+
+cap1:
+1. 1 Fog formation: A weather station reports T = 293 K, RH = 50% at sunset. Assuming that P H2O remains constant, by how much must the temperature drop over the course of the night in order for fog to form?
+
+1. 2 Phase partitioning of water in cloud: What is the mass concentration of water vapor (g H 2 O per m 3 of air) in a liquid-water cloud at a temperature of 273 K? Considering that the liquid water mass concentration in a cloud ranges typically from 0.1 to 1 g liquid water per m 3 of air, is most of the water in a cloud present as vapor or as liquid?
+
+1. 3 The ozone layer: Consider the following typical vertical profile of ozone (O 3 ) number densities measured over the United States. Ozone is produced in the stratosphere (10-50 km altitude) by photolysis of O 2 and subsequent combination of O atoms with O 2 (chapter 10). The stratospheric O 3 layer protects life on Earth by absorbing solar UV radiation and preventing this radiation from reaching the Earth’s surface. Fortunately, the O 3 layer is not in contact with the Earth’s surface; inhalation of O 3 is toxic to humans and plants, and the U.S. Environmental Protection Agency (EPA) has presently an air quality standard of 80 ppbv O 3 not  to be exceeded in surface air. 
+ 1. Calculate the mixing ratio of O 3 at the peak of the O 3 layer (z = 25 km; P = 35 hPa; T = 220 K). Would this mixing ratio be in violation of the EPA air quality standard if it were found in surface air? (moral of the story: we like to have a lot of O 3 in the stratosphere, but not near the surface)
+2. Calculate the mixing ratio of O 3 in surface air (z = 0 km; P = 1000 hPa; T = 300 K). Is it in compliance with the EPA air quality standard? Notice that the 
+relative decrease in mixing ratio between 25 km and the surface is considerably
+larger than the relative decrease in number density. Why is this?
+3. The total number of O 3 molecules per unit area of Earth surface is called the O 3 column and determines the efficiency with which the O 3 layer prevents solar UV radiation from reaching the Earth’s surface. Estimate the O 3 column in the above profile by approximating the profile with the piecewise linear function shown as the thin solid line.
+4. To illustrate how thin this stratospheric O 3 layer actually is, imagine that all of the O 3 in the atmospheric column were brought to sea level as a layer of pure O 3 gas under standard conditions of temperature and pressure (1.013x10 5 Pa, 273 K). Calculate the thickness of this layer.
+
+
+cap2:
+Many species in the atmosphere have mass concentrations that decrease roughly
+exponentially with altitude:
+ρz = ρ0 exp(-z /h)
+1. If ρ(z) is horizontally uniform, show that the total atmospheric mass m of such a species is given by 
+ m = A ρ0 h
+where A is the surface area of the Earth.
+2. Equation (2) allows a quick estimate of the total atmospheric mass of a species simply from knowing its scale height and its concentration in surface air. Let us first apply it to air itself.  
+2. 1 Calculate the mass density of air at the surface of the Earth using the ideal gas law and assuming global average values of surface pressure (984 hPa) and temperature (288 K). 
+2. 2 Infer the mass of the atmosphere using equation (2). Compare to the value
+given in chapter 2. Explain the difference.
+3. Let us now apply equation (2) to the sea salt aerosol formed by wave action at the surface of the ocean. The mass concentration of sea salt aerosol in marine air decreases exponentially with altitude with a scale height of 0.5 km (sea salt particles are sufficiently large to fall out of the atmosphere, hence the low scale height). The average mass concentration of sea salt aerosol in surface air over the ocean is 10 μg m -3 . The Earth is 70% ocean and the sea salt aerosol concentration over land is negligible. Calculate the total mass (in kg) of sea salt in the atmosphere.
+
+
+
+cap3:
+3. 1 Atmospheric steady state A power plant emits a pollutant X to the atmosphere at a constant rate E (kg s -1 ) starting at time t = 0. X is removed from the atmosphere by chemical reaction with a first-order rate constant k (s -1 ).
+
+1. Let m be the mass of X in the atmosphere resulting from the power plant
+emissions. Write an equation for m(t). Plot your results. What is the steady-state value m ∞ ?
+2. Show that the atmospheric lifetime of X is τ =1/k. What is the ratio m(t)/m ∞ at time t = τ? At time t = 3τ?
+3. If the power plant were to suddenly cease operations, how long would it take for m to decrease from its steady state value m ∞ to 5% of that value?
+
+
+
+8. 2 Aerosols and radiation
+We examine here the effects of different types of idealized aerosols on the surface temperature T o of the Earth.
+1. Sulfate aerosols scatter solar radiation (no absorption), and do not absorb or scatter terrestrial radiation. What effect would an increase in sulfate aerosol154 concentrations have on T o ? 
+2. Soot aerosols absorb solar and terrestrial radiation (no scatter). Discuss briefly how the effect of a soot layer on T o depends on the altitude of the layer.
+3. Desert dust aerosols scatter solar radiation (no absorption) and absorb terrestrial radiation (no scatter). Consider our simple greenhouse model where the gaseous atmosphere consists of a single thin layer that is transparent to solar radiation but absorbs a fraction f of terrestrial radiation. We add to that layer some desert dust so that the planetary albedo increases from A to A + ε, and the absorption efficiency of the atmospheric layer in the terrestrial radiation range increases from f to f + ε’. Assume that ε and ε’ are small increments so that ε << A and ε’ << f. Show that the net effect of desert dust is to increase T o if F S e'/e > Fs/2sigmaT^4 ~ 1.8
+and to decrease T o otherwise.
+Stefan-Boltzmann constant.Here F S is the solar constant and σ is the
+[To know more: Tegen, I., et al., Contribution of different aerosol species to the global aerosol extinction optical thickness: estimates from model results, J.
+Geophys. Res., 102, 23,895-23,915, 1997]
+
+
+
+
+
+
+
+
+<!-- end Jacob -->
+
+
+
 
 <!--De Visscher -->
 5. Convertir a *X* [ppm] de fracion molar de un compuesto con *M* [g/mol] masa molar, a unidades de *y* [mg/m3] concentracion másica. Usando temperatura *T* y presion *p*.
@@ -75,7 +139,7 @@ atmosphere.
 
 
 
-<!-- Jacobson -->
+<!-- Mark Jacobson -->
 <!--
 Preguntas no usadas:
 
@@ -323,41 +387,7 @@ Si el tiempo de residencia de O(1D) de una segunda reacción, fuese igual al de 
 
 
 
+<!-- STULL PBL -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Given a temperature of 25°C and a mixing ratio of 20 g/kg measured at a
+pressure of 90 kPa (900 mb), find the virtual potential temperature.

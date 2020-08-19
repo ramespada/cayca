@@ -16,7 +16,7 @@
 	- Principales reacciones.
 	- Aerosoles.
 ### Aplicaciones
-4. Mediciones: (Monitoreo, analítica y sensores remotos).
+4. Mediciones: monitoreo, analítica y sensores remotos.
 5. Inventarios de emisiones.
 6. Modelado.
 7. Normativa. 
@@ -25,8 +25,7 @@
 
 ### General:
 1. “Introd. to atmospheric chemistry”, Daniel J. Jacob (Harvard University), Princeton University Press, 1999.
-2. “Air Pollution and Global Warming”, Mark Z. Jacobson, Cambridge University Press, 2012.
-<!-- 1. “Introd. a la calidad de aire y la contaminación atmosférica”, Marcelo G. Bormioli. Cátedra de Física, FAUBA. 2015. -->
+2. “Air Pollution and Global Warming”, Mark Z. Jacobson (Stanford University), Cambridge University Press, 2012.
 
 ### Optativa:
 - “Atmospheric chemistry and physics: From air pollution to climate change”,  Seinfeld, J. H., Pandis, S.N., Wiley, 1998.
